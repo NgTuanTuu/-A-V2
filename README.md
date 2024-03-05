@@ -18,15 +18,15 @@
 
 ___Author: XaviaTeam___
 
-___Editor: Si Ngu___
+___Editor: Tuấn Tú HW___
 
-___Email: sng7850@gmail.com___
+___Email: tuantudevelopgmail.com___
 
-___Phone or Zalo: +84396416146___
+___Phone or Zalo: +84344282083___
 
-___Website: https://about.singu.id.vn___
+___Website: https://about.tuantu.id.vn___
 
-___Blog: https://singu.name.vn___
+___Blog: https://tuantudevblog.name.vn___
 
 ### SOCIAL
 
