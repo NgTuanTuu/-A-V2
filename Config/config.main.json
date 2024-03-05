@@ -16,14 +16,14 @@
     "LANGUAGE": "vi_VN",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100074293234284",
-        "100091250266334"
+        "100092239973961",
+        ""
     ],
     "ABSOLUTES": [
-        "100074293234284",
-        "100091250266334"
+        "",
+        "100092239973961"
     ],
-    "NAME": "GBOT - CHIẾN THẦN SÀN WAR 4.0",
+    "NAME": " ",
     "PREFIX": "!",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
@@ -35,8 +35,8 @@
         "OTP_KEY": ""
     },
     "GBOTWAR_MESSAGE": {
-        "notiWelecome": "Bố tới rồi đây, địt mẹ các con quỳ xuống",
-        "notiApprove": "GBOT đã được phê duyệt để tham chiến",
-        "notiAutoRegBox": "Xin chào bạn đã bị vào tầm ngắm của auto regbox"
+        "notiWelecome": "Bố tới rồi đây, địt mẹ các con quỳ xuống 😝",
+        "notiApprove": "Cha m đã được phê duyệt để tham chiến",
+        "notiAutoRegBox": " Vô sàn cha m là m hết đường chạy rồi cn ngu"
     }
 }
